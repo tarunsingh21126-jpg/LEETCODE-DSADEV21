@@ -2,29 +2,19 @@ class Solution:
     def limitOccurrences(self, nums: list[int], k: int) -> list[int]:
         n = len(nums)
         left = 0
-        ans = []
+        right = 0
 
-        while left < n:
-            right = left + 1
-            count = 1
+        while right < n:
 
-            ans.append(nums[left])
+            count = 0
+            current = nums[right]
 
-            while right < n and count < k:
-                if nums[left] == nums[right]:
-                    ans.append(nums[right])
+            while right < n and nums[right] == current:
+                if count < k:
+                    nums[left] = nums[right]
+                    left += 1
                     count += 1
-                    right += 1
-                else:
-                    break
 
-            while right < n and nums[right] == nums[left]:
                 right += 1
 
-            left = right
-
-        return ans
-
-                
-
-
+        return nums[:left]
