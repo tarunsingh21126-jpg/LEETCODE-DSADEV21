@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
