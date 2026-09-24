@@ -3,17 +3,29 @@ class Solution:
         words = s.split()
         if len(pattern) != len(words):
             return False
-        hashmap = {}
-        used_words = set()
+        list_ans = []
+        hash_map = {}
+
+        word = []
+        wordmap = {}
+
         for i in range(len(pattern)):
-            char = pattern[i]
-            word = words[i]
-            if char in hashmap:
-                if hashmap[char] != word:
-                    return False
-            else:
-                if word in used_words:
-                    return False
-                hashmap[char] = word
-                used_words.add(word)
+            if pattern[i] not in hash_map:
+                hash_map[pattern[i]] = i
+
+            list_ans.append(hash_map[pattern[i]])
+
+        for i in range(len(words)):
+            if words[i] not in wordmap:
+                wordmap[words[i]] = i
+
+            word.append(wordmap[words[i]])
+
+        for i in range(len(pattern)):
+            if list_ans[i] != word[i]:
+                return False
+
         return True
+
+        
+                
