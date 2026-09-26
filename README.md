@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -74,5 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
