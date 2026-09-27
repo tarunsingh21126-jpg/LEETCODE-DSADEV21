@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
