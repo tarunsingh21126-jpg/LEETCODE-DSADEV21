@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
