@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
+| [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
