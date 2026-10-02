@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
@@ -119,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
