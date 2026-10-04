@@ -1,31 +1,24 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         words = s.split()
+
         if len(pattern) != len(words):
             return False
-        list_ans = []
-        hash_map = {}
 
-        word = []
-        wordmap = {}
+        pattern_map = {}
+        word_map = {}
 
         for i in range(len(pattern)):
-            if pattern[i] not in hash_map:
-                hash_map[pattern[i]] = i
 
-            list_ans.append(hash_map[pattern[i]])
+            if pattern[i] not in pattern_map:
+                pattern_map[pattern[i]] = i
 
-        for i in range(len(words)):
-            if words[i] not in wordmap:
-                wordmap[words[i]] = i
+            if words[i] not in word_map:
+                word_map[words[i]] = i
 
-            word.append(wordmap[words[i]])
-
-        for i in range(len(pattern)):
-            if list_ans[i] != word[i]:
+            if pattern_map[pattern[i]] != word_map[words[i]]:
                 return False
 
         return True
-
         
                 
