@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
