@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -156,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
