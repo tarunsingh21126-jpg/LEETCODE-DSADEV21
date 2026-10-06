@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0704-binary-search) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1929-concatenation-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String
 |  |
 | ------- |
