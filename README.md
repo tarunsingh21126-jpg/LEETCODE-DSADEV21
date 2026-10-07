@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0704-binary-search) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
