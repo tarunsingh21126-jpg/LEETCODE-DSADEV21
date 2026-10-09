@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
