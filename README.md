@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
