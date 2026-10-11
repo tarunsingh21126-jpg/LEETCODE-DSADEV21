@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
