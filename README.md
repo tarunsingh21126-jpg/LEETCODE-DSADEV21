@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -185,9 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
