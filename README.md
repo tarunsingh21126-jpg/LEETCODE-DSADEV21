@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
