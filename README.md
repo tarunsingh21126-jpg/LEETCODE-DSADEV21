@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1004-max-consecutive-ones-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/2418-sort-the-people) |
 ## Binary Search
@@ -207,8 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
