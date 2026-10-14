@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0160-intersection-of-two-linked-lists) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0076-minimum-window-substring) |
