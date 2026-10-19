@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tarunsingh21126-jpg/LEETCODE-DSADEV21/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
